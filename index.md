@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-## This Image recognizer model Can classify 18 different types of vehicles
+## This [Image recognizer](https://akibiqbal98.github.io/Vechiles-Recognizer/vechicles_recognizer.html) model Can classify 18 different types of vehicles
 
 ![Alt text](Vehicle-Types.jpg)
 
