@@ -37,7 +37,7 @@ I cleaned and updated data using fastai ImageClassifierCleaner. I cleaned the da
 
 Here you can see the confusion matrix :
 
-<img src = "picture\confusion_matrix.png" width="700" height="500">
+<img src = "picture\confusion_matrix.png" width="700" height="600">
 
 ## Model Deployment
 I deployed to model to HuggingFace Spaces Gradio App. The implementation can be found in `app` folder or [here](https://huggingface.co/spaces/AkibIqbal/vehicle-recognizer). <br/>
