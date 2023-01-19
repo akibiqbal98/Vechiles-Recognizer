@@ -7,7 +7,7 @@ layout: page
 
 ![Alt text](Vehicle-Types.jpg)
 
-The types are following <br/>
+The types are following: <br/>
 
 | Vehicles name | Vehicles name |
 |--------|------|
