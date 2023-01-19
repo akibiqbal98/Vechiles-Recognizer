@@ -1,13 +1,13 @@
 ---
-title: Image Recognizer
+title: Home
 layout: page
 ---
 
-## This model Can classify 18 different types of vehicles
-The types are following <br/>
+## This Image recognizer model Can classify 18 different types of vehicles
 
 ![Alt text](Vehicle-Types.jpg)
 
+The types are following <br/>
 | Vehicles name | Vehicles name |
 |--------|------|
 | 1. Cars | 10. Agricultural vehicles |
