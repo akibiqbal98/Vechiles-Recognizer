@@ -1,4 +1,4 @@
-remote_theme: dSdtElectronics/jekyll-theme-antarctica@main
+remote_theme: CatinhoCR/catix-freshxmind@main
 plugins:
   - jekyll-remote-theme
 
