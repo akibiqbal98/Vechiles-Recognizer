@@ -1,4 +1,4 @@
-remote_theme: daviddarnes/garth@main
+remote_theme: dSdtElectronics/jekyll-theme-antarctica@main
 plugins:
   - jekyll-remote-theme
 
