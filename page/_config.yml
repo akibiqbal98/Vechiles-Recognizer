@@ -1,4 +1,5 @@
-remote_theme: daviddarnes/alembic@main
+remote_theme: emilbaehr/automatic-app-landing-page
+
 plugins:
   - jekyll-remote-theme
 
