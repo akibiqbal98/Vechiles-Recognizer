@@ -5,7 +5,7 @@ layout: page
 
 ## This Image recognizer [model](https://akibiqbal98.github.io/Vechiles-Recognizer/vechicles_recognizer.html) Can classify 18 different types of vehicles
 
-![Alt text](Vehicle-Types.jpg)
+<img src = "..\picture\Vehicle-Types.jpg" width="700" height="500">
 
 The types are following: <br/>
 
