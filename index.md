@@ -8,6 +8,7 @@ layout: page
 ![Alt text](Vehicle-Types.jpg)
 
 The types are following <br/>
+
 | Vehicles name | Vehicles name |
 |--------|------|
 | 1. Cars | 10. Agricultural vehicles |
