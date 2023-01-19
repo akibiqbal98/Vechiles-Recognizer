@@ -1,0 +1,9 @@
+remote_theme: beautiful-jekyll@master
+plugins:
+  - jekyll-remote-theme
+
+tittle: Vechicle Recognizer
+description: An image classification API the classifies 18 different types of vechicles
+
+author:
+  name: MD. Akib Iqbal Majumder
