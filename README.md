@@ -36,4 +36,5 @@ Details can be found in notebooks/data_preprocessing.ipynb
 I cleaned and updated data using fastai ImageClassifierCleaner. I cleaned the data each time after training or finetuning, except for the last time which was the final iteration of the model.
 
 Here you can see the confusion matrix :
+
 ![Alt text](pictures\confusion_matrix.png)
