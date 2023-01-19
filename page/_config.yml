@@ -1,5 +1,4 @@
-remote_theme: double-great/theme@main
-# daviddarnes/alembic@main
+remote_theme: daviddarnes/alembic@main
 plugins:
   - jekyll-remote-theme
 
