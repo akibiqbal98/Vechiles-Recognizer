@@ -1,4 +1,4 @@
-remote_theme: daattali/ beautiful-jekyllbeautiful-jekyll@main
+remote_theme: daviddarnes/garth@main
 plugins:
   - jekyll-remote-theme
 
