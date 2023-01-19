@@ -1,9 +1,9 @@
 ---
-title: Home
+title: Image Recognizer
 layout: page
 ---
 
-## Image Recognizer Can classify 18 different types of vehicles
+## This model Can classify 18 different types of vehicles
 The types are following <br/>
 
 | Vehicles name | Vehicles name |
