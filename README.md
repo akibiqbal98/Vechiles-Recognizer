@@ -37,4 +37,4 @@ I cleaned and updated data using fastai ImageClassifierCleaner. I cleaned the da
 
 Here you can see the confusion matrix :
 
-![Alt text](pictures\confusion_matrix.png)
+![Alt text](confusion_matrix.png)
