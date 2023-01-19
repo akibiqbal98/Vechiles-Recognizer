@@ -6,6 +6,8 @@ layout: page
 ## This model Can classify 18 different types of vehicles
 The types are following <br/>
 
+![Alt text](Vehicle-Types.jpg)
+
 | Vehicles name | Vehicles name |
 |--------|------|
 | 1. Cars | 10. Agricultural vehicles |
@@ -17,6 +19,8 @@ The types are following <br/>
 | 7. Airplanes | 16. Public transportation | 
 | 8. Trains |  17. Aerial tramway |
 | 9. Construction vehicles |  18. Mining vehicles |
+
+
  
  
  
