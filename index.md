@@ -4,8 +4,8 @@ layout: page
 ---
 
 # Image Recognizer 
-Can classify 18 different types of vehicles</br>
-The types are following </br>
+Can classify 18 different types of vehicles<br/>
+The types are following <br/>
 
 1. Cars 
 2. Trucks 
