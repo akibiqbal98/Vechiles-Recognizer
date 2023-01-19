@@ -38,3 +38,10 @@ I cleaned and updated data using fastai ImageClassifierCleaner. I cleaned the da
 Here you can see the confusion matrix :
 
 ![Alt text](confusion_matrix.png)
+
+## Model Deployment
+I deployed to model to HuggingFace Spaces Gradio App. The implementation can be found in `app` folder or [here](https://huggingface.co/spaces/AkibIqbal/vehicle-recognizer). <br/>
+<img src = "hugo_app.png" width="700" height="350">
+
+## API integration with GitHub Pages
+The deployed model API is integrated [here](https://akibiqbal98.github.io/Vechiles-Recognizer/) in GitHub Pages Website. Implementation and other details can be found in `docs` folder.
