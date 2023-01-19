@@ -1,4 +1,4 @@
-# Vechiles-Recognizer
+# Vehicles-Recognizer
 In this proect i have build a **End-to-End Deep Learning model** from data collection, cleaning, model training, deployment and API integration.
 
 This model can classify 20 different types of vehicles 
