@@ -30,7 +30,7 @@ Details can be found in notebooks/data_preprocessing.ipynb
 
 ## Training and Data Cleaning
 
-**Training:** Fine-tuned a densnet169 model for 10 epochs and got upto ~90% accuracy.
+**Training:** Fine-tuned a `densnet169` model for 10 epochs and got upto ~90% accuracy.
 
 **Data Cleaning:** This part took the highest time. Since I collected data from browser, there were many noises and same kind of vehicles.
 I cleaned and updated data using fastai ImageClassifierCleaner. I cleaned the data each time after training or finetuning, except for the last time which was the final iteration of the model.
